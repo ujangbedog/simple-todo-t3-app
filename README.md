@@ -13,7 +13,7 @@ Follow these steps to set up and run the project locally.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ujangbedog/simple-todo-t3-app.git
+git clone https://github.com/ujangdoubleday/simple-todo-t3-app.git
 cd todo-app
 ```
 
